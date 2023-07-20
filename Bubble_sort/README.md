@@ -64,6 +64,6 @@ function bubbleSort(list, listLength)
 
 3) Adaptive : if we applied bubble sort to a sorted list it would go for one iteration only and know the flag didn't change then will break and finish!
 
-4) Stablbe: it's a stable algorithms as in case of equal elements it keeps the original sorting and not swapping, it only swaps in case of (bigger than >)
+4) Stable: it's a stable algorithms as in case of equal elements it keeps the original sorting and not swapping, it only swaps in case of (bigger than >)
 
 5) Memory: no extra memory needed just the original list to be sorted
