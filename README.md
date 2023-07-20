@@ -1,4 +1,4 @@
-In this repo i will try to code 11 different sorting Algorithms and analyse them.
+In this repo i will try to code 11 different sorting Algorithms and analyze them.
 ######################################################
 Criteria for analysis:
 1 - Number of Comparisons
