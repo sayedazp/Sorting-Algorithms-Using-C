@@ -1,7 +1,5 @@
 ![Alt text](../assets/is.jpg)
 
-![Alt text](./g)
-![Alt text](./assets/is.jpg)
 
 insertion sort is all about inserting in a list but keeps it sorted as we insert elements to it and instead of creating new list and consuming space the algorithm implmentaiton suggests inserts into the same list to be sorted with the help of subarray(sublist) colored as yellow in the image above, so we have a sorted yellow subarray and unsorted uncolored one after inserting all the elements form the unsorted to the sorted list we have already sorted our list
 
