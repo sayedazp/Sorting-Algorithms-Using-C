@@ -5,3 +5,14 @@ in selection sort we are dealing more with indicies not the elements it self at 
 - note that we perform one swap per iteration which is more efficient approach that previous methods
 
 - note that every iteration generates the smallest element of the searched range so we can use selection sort approach to figure out the k smallest elements of an array of length n by performing k selection sort internal operations and not the full sorting algorithm!
+
+# Analysis
+1) Number of comparisons -> O(n^2)
+
+2) Number of swaps -> O(n)
+
+3) Adaptive : Not adaptive
+
+4) Stable: Not stable
+
+5) Memory: no extra memory needed just the original list to be sorted
